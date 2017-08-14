@@ -23,7 +23,7 @@ import org.testng.annotations.Test;
 import com.propertyfinder.automation.utils.WindowDriverFactory;
 
 
-public class WindowLogin    
+public class Home    
 {
 	private ITestContext context;
 	private WebDriver driver;

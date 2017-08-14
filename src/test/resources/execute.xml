@@ -8,11 +8,11 @@
 				<parameter name="platform" value="windows" />
 				<parameter name="browser" value="firefox" />
 				<parameter name="nodeURL" value="" />
-				<parameter name="module" value="Login" />
-				<parameter name="moduleName" value="Login_Windows_FF" />
+				<parameter name="module" value="Home" />
+				<parameter name="moduleName" value="HomeModule" />
 			</parameters>
 			<classes>
-				<class name="com.propertyfinder.automation.propertyfinder.testcases.WindowLogin">
+				<class name="com.propertyfinder.automation.propertyfinder.testcases.Home">
 					<methods>
 						<include name="Filter_Agent_Count" />
 					</methods>
